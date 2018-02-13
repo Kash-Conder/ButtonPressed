@@ -15,9 +15,9 @@ public class Main {
     public static void main(String[] args) {
         JFrame frame = new WindowFrame();
 
-        frame.setSize(300, 300);
+        frame.setSize(700, 500);
         frame.setLocation(500, 100);
-        frame.setTitle("Text input test");
+        frame.setTitle("First GUI");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
